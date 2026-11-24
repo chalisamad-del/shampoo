@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "น้ำหอมฉีดตัว Fresh เล็ก",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30ml",
+    "price": 79,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสดชื่นสะอาด เหมาะพกพาติดกระเป๋า เติมความหอมได้ทุกช่วงของวัน"
+  },
+  {
+    "id": 2,
+    "name": "น้ำหอมฉีดตัว Fresh ใหญ่",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100ml",
+    "price": 189,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสดชื่นสะอาด ขนาดคุ้มค่าสำหรับใช้ประจำทุกวัน"
+  },
+  {
+    "id": 3,
+    "name": "น้ำหอมฉีดตัว Sweet เล็ก",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "30ml",
+    "price": 79,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหวานละมุน อบอุ่นนุ่มนวล ขนาดพกพาสะดวก"
+  },
+  {
+    "id": 4,
+    "name": "น้ำหอมฉีดตัว Sweet ใหญ่",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "100ml",
+    "price": 189,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหวานละมุน อบอุ่นนุ่มนวล ขนาดคุ้มค่าสำหรับใช้ประจำ"
+  },
+  {
+    "id": 5,
+    "name": "น้ำหอมฉีดตัว Confident เล็ก",
+    "mood": "confident",
+    "type": "spray",
+    "size": "30ml",
+    "price": 79,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นมั่นใจ โดดเด่นแต่ไม่เกินพอดี ขนาดพกพาสะดวก"
+  },
+  {
+    "id": 6,
+    "name": "น้ำหอมฉีดตัว Confident ใหญ่",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100ml",
+    "price": 189,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นมั่นใจ โดดเด่นแต่ไม่เกินพอดี ขนาดคุ้มค่าสำหรับใช้ประจำ"
+  },
+  {
+    "id": 7,
+    "name": "น้ำหอมฉีดตัว Romance เล็ก",
+    "mood": "romance",
+    "type": "spray",
+    "size": "30ml",
+    "price": 79,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นโรแมนติก นุ่มนวลน่าหลงใหล ขนาดพกพาสะดวก"
+  },
+  {
+    "id": 8,
+    "name": "น้ำหอมฉีดตัว Romance ใหญ่",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100ml",
+    "price": 189,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นโรแมนติก นุ่มนวลน่าหลงใหล ขนาดคุ้มค่าสำหรับใช้ประจำ"
+  }
+]
